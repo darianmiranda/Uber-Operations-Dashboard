@@ -10,6 +10,10 @@ The objective of the dashboard was to explore how operational metrics vary acros
 
 <br>
 
+<img width="863" height="486" alt="image" src="https://github.com/user-attachments/assets/4aa34122-a2a1-435d-9d24-7fc9b187b393" />
+
+<br>
+
 Full dashboard walkthrough recording can be found [here](https://github.com/darianmiranda/Uber-Operations-Dashboard/blob/main/Dashboard-Demo-Video)
 
 ---
@@ -31,33 +35,22 @@ Interactive visualizations and cross filtering functionality were implemented to
 
 ## Findings
 
-The analysis revealed meaningful operational variability across cities and time periods despite similar ride activity levels.
+The dashboard analysis revealed noticeable operational performance variability across cities and time periods despite relatively similar overall ride activity levels.
 
 Key findings included:
 
-* Incomplete ride rates varied significantly across cities and times of day
-* Cancellation and no-show behavior fluctuated throughout operational periods
-* Ride distance and ride duration distributions displayed substantial variability across trip activity
-* Operational performance metrics differed across locations despite comparable ride volumes
+* Incomplete ride rates fluctuate substantially throughout the day, with differing patterns across cities
+* Cancellation rates drive incomplete rides in all cities
+* No-show and cancellation behavior differ substantially across weekdays and weekends
 
-The findings demonstrate how operational performance can change dynamically throughout a ride sharing platform and how dashboard monitoring can help surface inefficiencies that may otherwise go unnoticed.
+The analysis suggests that ride share operational performance is not uniform across markets or operating periods. These variations may reflect differences in rider demand patterns, driver availability, traffic conditions, or localized operational inefficiencies.
 
 ---
 
 ## Recommendations
 
-Based on the analysis, ride sharing companies could use operational dashboards like this to improve service reliability, monitor platform performance, and support more proactive operational decision-making.
+Since cancellation rates were the primary driver of incomplete rides across all cities, closer monitoring of cancellation behavior may help operations teams identify underlying service disruptions such as driver supply shortages, demand imbalances, or localized operational bottlenecks. The observed differences between weekday and weekend ride behavior also suggest that operational strategies may need to vary depending on temporal demand patterns.
 
-The observed variability in cancellation and incomplete ride behavior suggests that operational performance may benefit from closer monitoring during higher-risk periods throughout the day. Interactive KPI tracking can help operations teams identify periods or locations where service performance deteriorates and respond more quickly to operational disruptions.
+Future improvements to the dashboard could include real time operational monitoring, geographic ride mapping, and predictive analytics capable of identifying periods with elevated incomplete ride risk before operational performance deteriorates.
 
-Potential business applications include:
 
-* Monitoring high-cancellation periods to identify operational bottlenecks
-* Improving driver allocation during periods of elevated ride demand
-* Tracking city-level operational performance more consistently
-* Supporting operational staffing and resource allocation decisions
-* Improving customer experience through real-time KPI monitoring
-
-Future improvements to the dashboard could include additional operational metrics, real-time streaming data integration, geographic mapping functionality, and predictive analytics to proactively identify potential service disruptions before they occur.
-
-The project demonstrates how business intelligence and operational analytics can help organizations monitor large-scale platform performance and support more responsive operational management.
