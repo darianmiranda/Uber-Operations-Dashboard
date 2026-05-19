@@ -10,7 +10,7 @@ The objective of the dashboard was to explore how operational metrics vary acros
 
 <br>
 
-Full dashboard walkthrough recording can be found [here](#############)
+Full dashboard walkthrough recording can be found [here](https://github.com/darianmiranda/Uber-Operations-Dashboard/blob/main/Dashboard-Demo-Video)
 
 ---
 
