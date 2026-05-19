@@ -16,6 +16,8 @@ The objective of the dashboard was to explore how operational metrics vary acros
 
 Full dashboard walkthrough recording can be found [here](https://github.com/darianmiranda/Uber-Operations-Dashboard/blob/main/Dashboard-Demo-Video)
 
+View the data [here](https://www.kaggle.com/datasets/rohiteng/uber-trips-dataset)
+
 ---
 
 ## Methodology
