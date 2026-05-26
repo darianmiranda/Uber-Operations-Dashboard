@@ -51,8 +51,39 @@ The analysis suggests that ride share operational performance is not uniform acr
 
 ## Recommendations
 
-Since cancellation rates were the primary driver of incomplete rides across all cities, closer monitoring of cancellation behavior may help operations teams identify underlying service disruptions such as driver supply shortages, demand imbalances, or localized operational bottlenecks. The observed differences between weekday and weekend ride behavior also suggest that operational strategies may need to vary depending on temporal demand patterns.
+Based on the operational patterns identified in the dashboard, several business recommendations could be explored to improve ride completion efficiency, customer experience, and driver utilization.
 
-Future improvements to the dashboard could include real time operational monitoring, geographic ride mapping, and predictive analytics capable of identifying periods with elevated incomplete ride risk before operational performance deteriorates.
+### Operational Efficiency Optimization
+
+Observed variation in incomplete ride behavior across cities and time periods suggests opportunities to:
+
+* Identify high risk periods with elevated cancellation and no-show rates
+* Allocate driver supply more strategically during peak disruption windows
+* Investigate operational differences between cities with consistently stronger completion performance
+
+### Customer Experience Improvements
+
+Higher incomplete ride rates may negatively impact rider satisfaction and retention. Potential actions include:
+
+* Monitoring rider wait times during high demand periods
+* Improving matching efficiency between riders and drivers
+* Developing targeted interventions for locations with persistent service disruptions
+
+### Driver Utilization & Revenue Stability
+
+Operational inefficiencies can compound quickly at scale and reduce overall platform efficiency. Businesses could use these insights to:
+
+* Improve driver utilization rates during peak operating hours
+* Reduce revenue leakage from canceled or incomplete rides
+* Optimize incentive structures across cities and time segments
+
+### Real Time Operational Monitoring
+
+Interactive dashboards like this can support ongoing operational decision making by enabling teams to:
+
+* Track ride completion performance in real time
+* Detect abnormal operational patterns early
+* Compare city level performance across multiple operational KPIs
+* Support data driven resource allocation and forecasting decisions
 
 
